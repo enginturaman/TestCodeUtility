@@ -9,7 +9,7 @@ namespace TestCodeUtility
     {
         static void Main(string[] args)
         {
-           var code = ConvertCurrency<VakifKatilimCurrencyStrings>("Rus Rublesi");
+            var code = ConvertCurrency<VakifKatilimCurrencyStrings>("Rus Rublesi");
         }
 
         //Belli bir class a göre 
